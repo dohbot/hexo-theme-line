@@ -15,7 +15,7 @@ disqus:
 # GA support
 ga:
 
-# mermaid chart ## install hexo-tag-mermaid
+# mermaid chart ## install hexo-filter-mermaid-diagrams
 mermaid: ## mermaid url https://github.com/knsv/mermaid
   enable: true  # default true
   version: "7.1.2" # default v7.1.2
